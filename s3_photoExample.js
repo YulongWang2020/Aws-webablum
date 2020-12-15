@@ -1,4 +1,4 @@
-var albumBucketName = "photo-album-aws";
+var albumBucketName = "cf-stack-ablum-photo";
 var bucketRegion = "us-east-1";
 var IdentityPoolId = "us-east-1:2a86ba5a-280d-4c46-ae39-38a98441eea0";
 AWS.config.update({
